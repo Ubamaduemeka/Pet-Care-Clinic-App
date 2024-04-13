@@ -958,3 +958,9 @@
 2024-04-13 10:48:13,948 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-04-13 10:48:13,953 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Desktop\Course 4 Project - Integration and Deployment\MyPet-Care-Clinic\src\test\resources
 2024-04-13 11:02:34,442 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 11:02:34,443 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 11:02:34,446 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\user\Desktop\Course 4 Project - Integration and Deployment\MyPet-Care-Clinic\src\test\resources
+2024-04-13 11:47:11,369 [Worker-28: Launching Executing clean in C__Users_user_Desktop_Course 4 Project - Integration and Deployment_MyPet-Care-Clinic] INFO  o.e.m.i.launch.MavenLaunchDelegate - Run build in "C:\Users\user\Desktop\Course 4 Project - Integration and Deployment\MyPet-Care-Clinic":
+2024-04-13 11:47:11,372 [Worker-28: Launching Executing clean in C__Users_user_Desktop_Course 4 Project - Integration and Deployment_MyPet-Care-Clinic] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always clean
+2024-04-13 11:47:15,759 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-04-13 11:47:15,762 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
