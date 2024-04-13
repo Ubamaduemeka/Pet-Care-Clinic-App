@@ -41,7 +41,7 @@ pipeline {
         stage('Docker deploy'){
             steps {
                
-                sh 'docker run -itd -p  9090:8080 authorityuba/spring-aws-jenkin:${BUILD_NUMBER}'
+                sh 'docker run -itd -p  9090:9090 authorityuba/spring-aws-jenkin:${BUILD_NUMBER}'
             }
         }
         stage('Archiving') { 
