@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Consultation Fees</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+
+<div class="mx-5" fs-5>
+<h1>Vet Consultation Fees and Treatment Prices</h1>
+<p class=fs-5>It’s no secret that vet fees can be frustratingly expensive. But if your precious pooch gets into a pickle or your feline friend has a fall, a trip to the vets may be essential.</p>
+
+<h3>How much does a vet check-up cost?</h3>
+<p class=fs-5>Vet check-ups can vary depending on where you’re based in the UK, the specific vet practice and the type of pet that you have. But how much is a check-up at the vets on average?
+A vet consultation fee can cost more than £30 for your pet to be seen by the vet. In some cases, you can pay £50 to £60 for a standard consultation. The price you pay also depends on whether your visit is during normal opening hours or if it’s an emergency appointment outside of hours. An emergency charge could set you back anything between £200 to £300.
+How much are vet fees for dogs?</p>
+<p class=fs-5>Vet fees can range from the initial vet consultation fee to more expensive vet treatments prices for things like for x-rays, operations and other specialist procedures.
+While exact costs can vary depending on the vets, and the specific needs of your dog, here are some ballpark figures to give you an idea of some of the average vet costs in the UK for dogs:</p>
+<ul class=fs-5>	
+<li>Vaccinations  – these costs will vary depending on what your dog needs, but puppy vaccinations can cost at least £70 (more if you also opt to vaccinate against kennel cough). Your dog will then need annual boosters which cost about £50 per year.</li>
+<li>Neutering – you can expect a castration procedure to cost you around £200 and a spaying procedure over £250.</li>
+<li>Dental care – dental care can be unexpectedly pricey. You should be prepared that dental treatments can cost upwards of £350 depending on the needs of your dog.</li>
+<li>Pregnancy, birth and after care – costs related to pregnancy and birth can also vary dramatically. A scheduled c-section can cost approximately £800 but an emergency caesarean can cost 80% more – averaging at £1,400.</li>
+<li>Euthanasia – helping your dog to cross the rainbow bridge may cost anything from £80 to £200. It varies on factors like whether it happens at home or at the vets. The price is also affected by whether if it’s an emergency appointment or during scheduled working hours.</li>
+</ul>
+<h3>How much is vet treatment for cats?</h3>
+<p class=fs-5>A cat check-up cost in the UK is anywhere between £30 to £60 depending on the practice. While it’s hard to plan for an exact cost with so many variables to consider, here’s a rough guide to what you can expect to pay when taking your cat to the vets:</p>
+<ul class=fs-5>
+<li>Vaccinations – while prices vary depending on what your cat needs, in some cases, kitten vaccinations can cost £55 to £75 – if you’re including protection against feline leukaemia virus (FeLV). You can then expect to pay just over £50 a year for annual boosters.</li>
+<li>Neutering– it could cost you over £90 to castrate a tomcat or over £150 to spay your female feline.</li> 
+<li>Dental care – pet dental care can be expensive and you should bear in mind that it may set you back over £350 to treat your cat’s teeth.</li>
+<li>Pregnancy, birth and after care – costs relating to your cat giving birth can be expensive. For example, if your cat needs a caesarean, it could cost more than £500.</li>
+<li>Euthanasia – guiding your feline friend over the rainbow bridge may cost between £80 and £150.</li>
+</ul>
+
+<h2>Does insurance cover all vet bills?</h2>
+<p class=fs-5>Pet insurance can be a big help when it comes to covering certain vet bills. It’s designed to help you cover emergencies or large, unexpected vet treatments. This means that not all routine treatments are covered by pet insurance. Some key exclusions include:</p>
+<ul class=fs-5>
+<li>Costs relating to pregnancy or birth</li>
+<li>Routine or regular check ups</li>
+<li>Experimental treatments</li> 
+<li>Procedures like neutering</li>
+</ul>
+</div>
+
+
+</body>
+</html>

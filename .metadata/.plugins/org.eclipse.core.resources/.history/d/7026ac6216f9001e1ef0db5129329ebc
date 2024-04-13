@@ -1,0 +1,20 @@
+version: "3.8"
+services:
+	mysql-db: 		
+	image: mysql:8 		//this pre-defined image for mysql db
+	container_name: mysql-db
+	environment:
+	 - MYSQL_ROOT_PASSWORD :root
+	 - MySQL_DATABASE :productdb	// this my database name
+	ports:
+	  - 3307:3306
+	restart: always
+	
+	spring-boot: 	//service  name
+	 	build . 	// build the spring boot image --> this is user-defined image
+		container_name: spring-boot
+		depends_on: 	// this means that the spring boot depends on the database
+		  - mysql-db 	// service db name
+	ports:
+	 	- 8180: 8080
+	restart: always

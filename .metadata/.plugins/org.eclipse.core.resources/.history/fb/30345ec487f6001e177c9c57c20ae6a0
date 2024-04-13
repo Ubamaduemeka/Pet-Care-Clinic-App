@@ -1,0 +1,18 @@
+package com.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+@Controller
+@RequestMapping("/home")
+public class MyPetCareClinicController {
+	
+	@GetMapping
+	public @ResponseBody String loginPageOpen(Model model) {	
+		model.addAttribute("homepage", model);
+		return "home";		
+	}
+}

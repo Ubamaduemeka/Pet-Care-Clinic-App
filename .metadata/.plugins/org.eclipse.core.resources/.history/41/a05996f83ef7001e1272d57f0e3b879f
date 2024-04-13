@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<title>Clinic Information</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</head>
+<body>
+<a class="nav-link active" aria-current="page" href="index">Home </a>
+<hr />
+<div class="mx-5" fs-5 >
+<h1>The Costs of Pet Ownership</h1>
+<p class=fs->You’ve finally decided to take the leap and add a furry friend to your family this holiday season. While they may be cute and cuddly, some of the expenses are not. This year, the American Pet Products Association estimates that people will spend an estimated $62.75 billion on their pets in the U.S. alone. Let’s break down some of the costs associated with a new pet.</p>
+
+<h3>INITIAL EXPENSES</h3>
+<p class=fs-5>There are usually fees whether you are adopting or buying that can range from anywhere from $50 into the thousands if you are buying purebreds. Unless you are prepared for puppies, spaying & neutering, which can also help prevent some serious health problems, must also be taken in account. This can range anywhere from about $145 for a cat or $190 for a small dog to $220 for a large dog. A crate for a dog costs around $95, depending on the size, while a litter box for a cat will set you back about $25.</p>
+<h3>FOOD</h3>
+<p>Depending on the quality of food you are purchasing, the price can vary. Overall, the average dog parent spends about $435 a year while those with cats usually spend around $175.  Some pets may require a special diet that you don’t know about until they become a member of your family. Don't forget about the treats!</p>
+
+<h3>ROUTINE VET CARE</h3>
+<p class=fs-5>Pet owners will spend about $15.92 billion on vet care alone in 2016. The average cost of a routine vet visit hovers right around $50. Most pets require about 2 to 4 boosters per year for their vaccinations to help keep them healthy, which can cost an additional $40 or so.</p>
+<h3>EMERGENCY VET CARE</h3>
+<p class=fs-5>Emergencies & accidents happen, even for our pets. For example, ingestion of a foreign object could end up costing  a little over $6,000 to remove and this isn’t money most people just have sitting around. You may also have to make the difficult decision of how much you can realistically spend on a pet. For a lot of owners, this isn’t something they ever want to think about but it's worth taking into consideration beforehand.</p>
+<h3>GROOMING</h3>
+<p class=fs-5>Nobody likes a smelly pet, so a trip to the groomer or a quick bath is sometimes necessary. With a professional, it may cost anywhere from $30 to $90 for standard grooming. The final cost is dependent upon the size of your pet and the amount of time it will take per visit. While at home grooming seems like a more convenient option, make sure you’re prepared. Pets may not be thrilled with the idea of jumping in the bath and there’s a chance you might be the one that ends up soaking wet. Get a pet safe shampoo and conditioner that will work with your pet’s coat. Use a detachable shower head or cup to ensure your dog is properly rinsed to avoid irritation.</p>
+<h3>PET INSURANCE</h3>
+<p class=fs-5>Pet insurance pays at least part of or the entirety of veterinary treatment for an insured person’s pet. The average pet insurance policy costs, on average, about $41 per month. However, this greatly depends on the pet’s breed, age, and where you live.</p>
+
+<h3>HOME DAMAGE</h3>
+<p class=fs-5>From chewing on dry wall to claw marks on the hardwood floor, pets have the potential of lowering your home’s value. There is usually little to no coverage for items you own that are destroyed by a pet. However, if a furry friend causes damage at a friend or neighbor's home, the cost of repairs may be covered.</p>
+<h3>TRAINING</h3>
+<p class=fs-5>After destroying that third pair of shoes, you decide it’s time for your fur baby to receive some proper training. On average, it can cost anywhere from about $40 to $125 for classes at your local pet store and about $240 to $600 for private training. Puppy training classes are usually less than adult or specific behavior classes. A pet can be an incredible addition to your family, providing years of fun memories and companionship. However, be sure that you are fully prepared for the financial responsibility that comes along with it.</p>
+
+<p class=fs-5><b>According to Kiplinger Magazine:</b></p>
+<p class=fs-5><b>First year*: $710 - $8,730</b></p>
+<p class=fs-5><b>Annual: $310 - $7,100 (plus unforeseen vet costs)</b></p>
+<p class=fs-5><b>Lifetime**: $4,070 - $101,070</b></p>
+</div>
+
+</body>
+</html>

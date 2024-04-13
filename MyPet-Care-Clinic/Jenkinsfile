@@ -1,0 +1,28 @@
+pipeline{        
+	agent any
+	tools {
+		maven "MAVEN"
+	
+	}
+	stages{
+	  stage("Clean and Compile"){
+		steps{
+			//Run Maven on a Unix agent
+			sh "mvn clean compile"
+	       	    }
+			
+		}
+		
+	   stage("Deploy/create .jar/war file"){
+		steps{
+			sh "mvn package"
+		}
+	   }
+
+	  stage("Build Docker image"){
+		steps{
+			echo "Hello java Express"
+			sh 'ls'
+			sh 'docker build -t akashkale/spring-aws-jenkin:${BUILD_NUMBER} .' //build and push to docker account
+		}
+	  }
